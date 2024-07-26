@@ -1,0 +1,11 @@
+Model Information:
+* title:	Khronos GLTF Sample Model - Toy Car
+* source:	https://sketchfab.com/3d-models/khronos-gltf-sample-model-toy-car-8eff94ba87c944b0a653d2cb8c1c79ac
+* author:	rawwerks (https://sketchfab.com/rawwerks)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Khronos GLTF Sample Model - Toy Car" (https://sketchfab.com/3d-models/khronos-gltf-sample-model-toy-car-8eff94ba87c944b0a653d2cb8c1c79ac) by rawwerks (https://sketchfab.com/rawwerks) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
